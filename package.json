@@ -1,0 +1,14 @@
+{
+  "name": "ridecompare",
+  "version": "1.0.0",
+  "description": "comapring ride prices",
+  "main": "main.js",
+  "scripts": {
+    "test": "cls && node main.js"
+  },
+  "author": "gieoon",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
